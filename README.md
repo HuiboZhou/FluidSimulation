@@ -1,2 +1,2 @@
 # FluidSimulation
-关于流体模拟的论文
+关于流体模拟的资料
